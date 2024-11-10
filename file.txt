@@ -1,1 +1,3 @@
-¡HOLA, mUNDO!
+Client, Producto, Valor
+Santiago, TV Samsung 32in, 430.00
+Samantha, iPhone 15, 1350.00
