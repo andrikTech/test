@@ -5,3 +5,6 @@ shopping_list.append('Broccoli')
 shopping_list.append('Lettuce')
 
 price_shopping_list = [1.90, 1.50, 0.70, 4.50, 0.59, 0.62]
+
+more_expensive_item = max(price_shopping_list)
+cheaper_item = min(price_shopping_list)
